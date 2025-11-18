@@ -2,7 +2,7 @@
 
 ## Deep Learning
 
-### [End-to-end deep vision workflow (Food-101)](https://github.com/kevinhuads/deepvision-workflow)
+### [End-to-end Deep Learning - Computer vision workflow](https://github.com/kevinhuads/deepvision-workflow)
 
 Deep learning computer vision workflow on the Food-101 dataset, from exploratory analysis to deployment, built with an MLOps-first mindset.
 
