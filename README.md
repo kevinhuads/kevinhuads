@@ -23,9 +23,7 @@ Smaller but complete Kaggle competition workflows covering EDA, modeling and int
 
 ### [Interactive Data Science Visual Lab in R Shiny](https://github.com/kevinhuads/rshiny-datascience-viz-lab) · [Live demo](https://kevinhua.shinyapps.io/DS_viz/)
 
-Interactive R Shiny application organised as an “interactive blog” that illustrates core data science and applied mathematics topics through narrative explanations and visual storytelling.
+Interactive R Shiny application organised as an “interactive blog” that illustrates core data science and applied mathematics topics through visual storytelling.
 
-- Covers core machine learning themes such as clustering, regression, natural language processing and time series, as well as broader mathematical ideas including stochastic simulation, Monte Carlo methods, Markov chains and simple epidemiological models.
-- Focuses on intuition and interactive visualisations (correlation maps, PCA plots, tree-based models, word clouds, network graphs, time series forecasts, SIRD curves, Monte Carlo simulations).
-- Relies on well-known public datasets (Kaggle and UCI) for realistic use cases such as bike-sharing prediction, hotel review analysis and sales forecasting, complemented by simulated data for probabilistic and stochastic concepts.
-- Structured as a full Shiny application with separate data preparation scripts, reusable server and UI components, and reproducible dependency management through `renv`.
+- Covers machine learning themes such as clustering, regression, NLP and time series, plus broader mathematical ideas including Monte Carlo methods, Markov chains and simple epidemiological models.
+- Built as a full Shiny app with dedicated data preparation scripts, modular UI/server components and reproducible dependencies managed through `renv`.
