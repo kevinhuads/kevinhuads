@@ -19,6 +19,8 @@ Smaller but complete Kaggle competition workflows covering EDA, modeling and int
 
 - [Podcast listening time regression](https://github.com/kevinhuads/regression-podcast-time): Regression pipeline to predict podcast listening time from episode and show metadata, using K-fold CV, compact model ensembles and diagnostic analysis (residuals, SHAP, calibration).
 
+## Interactive data science visual lab (R Shiny)
+
 ### [Interactive Data Science Visual Lab in R Shiny](https://github.com/kevinhuads/rshiny-datascience-viz-lab) · [Live demo](https://kevinhua.shinyapps.io/DS_viz/)
 
 Interactive R Shiny application organised as an “interactive blog” that illustrates core data science and applied mathematics topics through narrative explanations and visual storytelling.
